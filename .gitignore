@@ -6,7 +6,7 @@ cypress/screenshots
 /coverage/
 storybook-static
 
-# /dist
+/dist
 coverage
 *.tgz
 tgz
