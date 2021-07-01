@@ -6,14 +6,14 @@ cypress/screenshots
 /coverage/
 storybook-static
 
-/dist
+# /dist
 coverage
 *.tgz
 tgz
 
 /dist-app
-/dist
-dist
+# /dist
+# dist
 dist-app
 
 # local env files
